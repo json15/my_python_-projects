@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScappleDocument Version="1.1" ID="CF94D829-7136-4DD2-A057-BF1D4FCFF008">
+    <Notes>
+        <Note ID="11" FontSize="20.0" Position="2102.90625,3084.410156" Width="71.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="5">0.668308 0.0 0.047636</Border>
+            </Appearance>
+            <String>Python</String>
+            <ConnectedNoteIDs>35, 41, 62, 67, 82, 84, 104</ConnectedNoteIDs>
+        </Note>
+        <Note ID="12" FontSize="12.0" Position="856.823505,1111.20515" Width="63.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="4" Style="Cloud">0.017571 0.136113 0.378768</Border>
+            </Appearance>
+            <String>Data Type</String>
+            <ConnectedNoteIDs>17, 21, 24, 26, 52, 117</ConnectedNoteIDs>
+        </Note>
+        <Note ID="13" FontSize="12.0" Position="2866.048156,814.260502" Width="109.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="4" Style="Cloud">0.017571 0.136113 0.378768</Border>
+            </Appearance>
+            <String>How to use Python</String>
+            <ConnectedNoteIDs>14, 27, 154</ConnectedNoteIDs>
+        </Note>
+        <Note ID="14" FontSize="12.0" Position="2766.17462,874.54772" Width="76.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Python Shell</String>
+            <ConnectedNoteIDs>13, 15-16</ConnectedNoteIDs>
+        </Note>
+        <Note ID="15" FontSize="12.0" Position="2752.725507,950.002745" Width="92.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>CMD(Windows)</String>
+            <ConnectedNoteIDs>14</ConnectedNoteIDs>
+        </Note>
+        <Note ID="16" FontSize="12.0" Position="2625.279772,932.057432" Width="85.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Terminal(Mac)</String>
+            <ConnectedNoteIDs>14</ConnectedNoteIDs>
+        </Note>
+        <Note ID="17" FontSize="12.0" Position="918.793702,1432.258391" Width="133.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>How to know the type?</String>
+            <ConnectedNoteIDs>12, 18</ConnectedNoteIDs>
+        </Note>
+        <Note ID="18" FontSize="12.0" Position="929.524894,1467.723447" Width="119.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Type(Variable name)</String>
+            <ConnectedNoteIDs>17</ConnectedNoteIDs>
+        </Note>
+        <Note ID="20" FontSize="12.0" Position="338.268855,738.736771" Width="69.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>String Type</String>
+            <ConnectedNoteIDs>52, 112-114, 116</ConnectedNoteIDs>
+        </Note>
+        <Note ID="21" FontSize="12.0" Position="433.013679,1128.888516" Width="82.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Numeric Type</String>
+            <ConnectedNoteIDs>12, 22-23</ConnectedNoteIDs>
+        </Note>
+        <Note ID="22" FontSize="12.0" Position="488.137049,1086.202742" Width="35.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Float</String>
+            <ConnectedNoteIDs>21</ConnectedNoteIDs>
+        </Note>
+        <Note ID="23" FontSize="12.0" Position="456.896443,1191.790165" Width="46.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Integer</String>
+            <ConnectedNoteIDs>21</ConnectedNoteIDs>
+        </Note>
+        <Note ID="24" FontSize="12.0" Position="558.9831,1212.484663" Width="98.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Dynamic Typing</String>
+            <ConnectedNoteIDs>12, 25</ConnectedNoteIDs>
+        </Note>
+        <Note ID="25" FontSize="12.0" Position="481.9993,1257.623179" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Python automatically matches the type even though its not written clearly</String>
+            <ConnectedNoteIDs>24</ConnectedNoteIDs>
+        </Note>
+        <Note ID="26" FontSize="12.0" Position="590.580205,1422.990318" Width="82.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Boolean Type</String>
+            <ConnectedNoteIDs>12, 71</ConnectedNoteIDs>
+        </Note>
+        <Note ID="27" FontSize="12.0" Position="2739.216005,754.978041" Width="42.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Editer</String>
+            <ConnectedNoteIDs>13, 28-29, 31</ConnectedNoteIDs>
+        </Note>
+        <Note ID="28" FontSize="12.0" Position="2939.635111,629.370841" Width="37.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Atom</String>
+            <ConnectedNoteIDs>27</ConnectedNoteIDs>
+        </Note>
+        <Note ID="29" FontSize="12.0" Position="2830.635111,656.370841" Width="56.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Pycharm</String>
+            <ConnectedNoteIDs>27</ConnectedNoteIDs>
+        </Note>
+        <Note ID="31" FontSize="12.0" Position="2657.635111,643.370841" Width="101.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Jupyter notebook</String>
+            <ConnectedNoteIDs>27</ConnectedNoteIDs>
+        </Note>
+        <Note ID="35" FontSize="12.0" Position="1279.73016,3436.646587" Width="64.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="4" Style="Cloud">0.017571 0.136113 0.378768</Border>
+            </Appearance>
+            <String>Operation</String>
+            <ConnectedNoteIDs>11, 36, 38</ConnectedNoteIDs>
+        </Note>
+        <Note ID="36" FontSize="12.0" Position="1822.073069,3290.606701" Width="56.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Operator</String>
+            <ConnectedNoteIDs>35, 37</ConnectedNoteIDs>
+        </Note>
+        <Note ID="37" FontSize="12.0" Position="1833.830189,3240.975372" Width="92.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>**, *, -, +, +=, -=</String>
+            <ConnectedNoteIDs>36</ConnectedNoteIDs>
+        </Note>
+        <Note ID="38" FontSize="12.0" Position="1755.070498,3409.768291" Width="90.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Operand 연산자</String>
+            <ConnectedNoteIDs>35, 39, 70</ConnectedNoteIDs>
+        </Note>
+        <Note ID="39" FontSize="12.0" Position="1737.537863,3460.506028" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>The values that are used in the operation</String>
+            <ConnectedNoteIDs>38</ConnectedNoteIDs>
+        </Note>
+        <Note ID="41" FontSize="12.0" Position="1631.679675,3147.929486" Width="61.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="4" Style="Cloud">0.017571 0.136113 0.378768</Border>
+            </Appearance>
+            <String>Input &amp; Output</String>
+            <ConnectedNoteIDs>11, 42-43</ConnectedNoteIDs>
+        </Note>
+        <Note ID="42" FontSize="12.0" Position="1272.957031,3267.503906" Width="33.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Print</String>
+            <ConnectedNoteIDs>41, 44</ConnectedNoteIDs>
+        </Note>
+        <Note ID="43" FontSize="12.0" Position="1690.235648,3072.417816" Width="43.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Input()</String>
+            <ConnectedNoteIDs>41</ConnectedNoteIDs>
+        </Note>
+        <Note ID="44" FontSize="12.0" Position="1146.957031,3267.503906" Width="91.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Print Formating</String>
+            <ConnectedNoteIDs>42, 45-46</ConnectedNoteIDs>
+        </Note>
+        <Note ID="45" FontSize="12.0" Position="852.957031,3283.503906" Width="20.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>%</String>
+            <ConnectedNoteIDs>44, 48, 50</ConnectedNoteIDs>
+        </Note>
+        <Note ID="46" FontSize="12.0" Position="895.957031,3329.503906" Width="67.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>str.format()</String>
+            <ConnectedNoteIDs>44, 48, 50</ConnectedNoteIDs>
+        </Note>
+        <Note ID="48" FontSize="12.0" Position="755.957031,3290.503906" Width="75.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>s: str
+d: int
+f: float
+c: character</String>
+            <ConnectedNoteIDs>45-46</ConnectedNoteIDs>
+        </Note>
+        <Note ID="50" FontSize="12.0" Position="822.957031,3389.503906" Width="173.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Padding 정해진 만큼 칸을 주는 법</String>
+            <ConnectedNoteIDs>45-46, 51</ConnectedNoteIDs>
+        </Note>
+        <Note ID="51" FontSize="12.0" Position="822.957031,3446.503906" Width="142.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>% -&gt; %int R -&gt; %-int
+str.format() -&gt; {int (type)} 
+R -&gt; {&gt;int (type)}
+</String>
+            <ConnectedNoteIDs>50</ConnectedNoteIDs>
+        </Note>
+        <Note ID="52" FontSize="12.0" Position="522.142992,959.715778" Width="139.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Sequence Type (연속적)</String>
+            <ConnectedNoteIDs>12, 20, 53-54, 59</ConnectedNoteIDs>
+        </Note>
+        <Note ID="53" FontSize="12.0" Position="963.831352,753.841033" Width="53.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>List type</String>
+            <ConnectedNoteIDs>52, 117, 121, 129</ConnectedNoteIDs>
+        </Note>
+        <Note ID="54" FontSize="12.0" Position="1057.860224,874.151495" Width="42.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Tuple</String>
+            <ConnectedNoteIDs>52, 117, 124-125, 129</ConnectedNoteIDs>
+        </Note>
+        <Note ID="55" FontSize="12.0" Position="689.254314,670.400115" Width="60.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <TextColor>0.0 0.0 0.0</TextColor>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>indexting 
+ex) list[0]</String>
+            <ConnectedNoteIDs>59</ConnectedNoteIDs>
+        </Note>
+        <Note ID="56" FontSize="12.0" Position="719.147143,717.00441" Width="44.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Slicing</String>
+            <ConnectedNoteIDs>57, 59</ConnectedNoteIDs>
+        </Note>
+        <Note ID="57" FontSize="12.0" Position="809.956768,612.700824" Width="233.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>[starting point:end point:how many to skip]
+[::-1] opposite order 
+</String>
+            <ConnectedNoteIDs>56</ConnectedNoteIDs>
+        </Note>
+        <Note ID="58" FontSize="12.0" Position="516.147143,709.00441" Width="35.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>len()</String>
+            <ConnectedNoteIDs>59</ConnectedNoteIDs>
+        </Note>
+        <Note ID="59" FontSize="12.0" Position="528.147143,778.00441" Width="191.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Things able in sequence data type</String>
+            <ConnectedNoteIDs>52, 55-56, 58, 60, 64</ConnectedNoteIDs>
+        </Note>
+        <Note ID="60" FontSize="12.0" Position="486.147143,642.00441" Width="68.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>value in list</String>
+            <ConnectedNoteIDs>59</ConnectedNoteIDs>
+        </Note>
+        <Note ID="62" FontSize="12.0" Position="2430.520261,3292.219043" Width="52.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="4" Style="Cloud">0.017571 0.136113 0.378768</Border>
+            </Appearance>
+            <String>Memory</String>
+            <ConnectedNoteIDs>11, 63, 72</ConnectedNoteIDs>
+        </Note>
+        <Note ID="63" FontSize="12.0" Position="2605.847792,3361.447484" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>a = b means not only they have the same value, but also means pointing the same memory address.
+Therefore, is the value of b changes the value of a also changes</String>
+            <ConnectedNoteIDs>62</ConnectedNoteIDs>
+        </Note>
+        <Note ID="64" FontSize="12.0" Position="550.147143,674.00441" Width="121.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Packing &amp; unpacking</String>
+            <ConnectedNoteIDs>59, 65-66</ConnectedNoteIDs>
+        </Note>
+        <Note ID="65" FontSize="12.0" Position="582.658838,553.824291" Width="79.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Packing
+ex) t = [1,2,3]</String>
+            <ConnectedNoteIDs>64</ConnectedNoteIDs>
+        </Note>
+        <Note ID="66" FontSize="12.0" Position="720.698428,519.377972" Width="78.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Unpacking
+ex) a, b, c = t</String>
+            <ConnectedNoteIDs>64</ConnectedNoteIDs>
+        </Note>
+        <Note ID="67" FontSize="12.0" Position="2001.711914,2569.013346" Width="167.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="4" Style="Cloud">0.017571 0.136113 0.378768</Border>
+            </Appearance>
+            <String>Compound statementsq제어문</String>
+            <ConnectedNoteIDs>11, 68, 74-75, 78</ConnectedNoteIDs>
+        </Note>
+        <Note ID="68" FontSize="12.0" Position="2013.224177,2653.632413" Width="41.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>If-else</String>
+            <ConnectedNoteIDs>67</ConnectedNoteIDs>
+        </Note>
+        <Note ID="69" FontSize="12.0" Position="2001.711914,2419.013346" Width="39.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>While</String>
+            <ConnectedNoteIDs>78</ConnectedNoteIDs>
+        </Note>
+        <Note ID="70" FontSize="12.0" Position="1551.460925,3419.188188" Width="178.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>==(!=) means the same value
+‘is’(‘is not) means pointing the same memory address</String>
+            <ConnectedNoteIDs>38</ConnectedNoteIDs>
+        </Note>
+        <Note ID="71" FontSize="12.0" Position="311.145485,1488.206768" Width="179.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>When the data is inside it is true
+‘a’ == True
+‘’ == False
+0 == False</String>
+            <ConnectedNoteIDs>26</ConnectedNoteIDs>
+        </Note>
+        <Note ID="72" FontSize="12.0" Position="2368.060015,3221.648236" Width="164.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Int 0 - 256 is always preloaded in the memory </String>
+            <ConnectedNoteIDs>62</ConnectedNoteIDs>
+        </Note>
+        <Note ID="73" FontSize="12.0" Position="2072.711914,2417.013346" Width="26.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>For</String>
+            <ConnectedNoteIDs>78</ConnectedNoteIDs>
+        </Note>
+        <Note ID="74" FontSize="12.0" Position="2151.716068,2634.600767" Width="22.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>try</String>
+            <ConnectedNoteIDs>67</ConnectedNoteIDs>
+        </Note>
+        <Note ID="75" FontSize="12.0" Position="2115.340474,2655.513742" Width="32.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>With</String>
+            <ConnectedNoteIDs>67</ConnectedNoteIDs>
+        </Note>
+        <Note ID="78" FontSize="12.0" Position="2011.711914,2497.013346" Width="79.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Loop 반복문</String>
+            <ConnectedNoteIDs>67, 69, 73, 79</ConnectedNoteIDs>
+        </Note>
+        <Note ID="79" FontSize="12.0" Position="1875.711914,2438.013346" Width="112.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Break &amp; Continue</String>
+            <ConnectedNoteIDs>78, 80-81</ConnectedNoteIDs>
+        </Note>
+        <Note ID="80" FontSize="12.0" Position="1775.711914,2362.013346" Width="83.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>if ~~~: break
+stops the loop</String>
+            <ConnectedNoteIDs>79</ConnectedNoteIDs>
+        </Note>
+        <Note ID="81" FontSize="12.0" Position="1805.711914,2285.013346" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>if ~~~: continue 
+skip the bottom part and goes to the start of the loop</String>
+            <ConnectedNoteIDs>79</ConnectedNoteIDs>
+        </Note>
+        <Note ID="82" FontSize="12.0" Position="2563.017689,3196.603536" Width="63.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="4" Style="Cloud">0.017571 0.136113 0.378768</Border>
+            </Appearance>
+            <String>Debuging </String>
+            <ConnectedNoteIDs>11, 83</ConnectedNoteIDs>
+        </Note>
+        <Note ID="83" FontSize="12.0" Position="2411.593243,3069.260182" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>if __name__ == "__main__":
+runs the code inside of it, only if this file is directly opened</String>
+            <ConnectedNoteIDs>82</ConnectedNoteIDs>
+        </Note>
+        <Note ID="84" FontSize="12.0" Position="2322.711914,2601.013346" Width="58.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="4" Style="Cloud">0.017571 0.136113 0.378768</Border>
+            </Appearance>
+            <String>Function </String>
+            <ConnectedNoteIDs>11, 87, 89, 95-96, 98</ConnectedNoteIDs>
+        </Note>
+        <Note ID="85" FontSize="12.0" Position="2654.05279,2326.102786" Width="175.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Parmaeter value == input value
+interface of the function</String>
+            <ConnectedNoteIDs>87</ConnectedNoteIDs>
+        </Note>
+        <Note ID="86" FontSize="12.0" Position="2898.05279,2346.102786" Width="145.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Argument
+actual value that is putted in the paramaeter</String>
+            <ConnectedNoteIDs>87</ConnectedNoteIDs>
+        </Note>
+        <Note ID="87" FontSize="12.0" Position="2684.05279,2418.102786" Width="134.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Parameter &amp; Argument </String>
+            <ConnectedNoteIDs>84-86</ConnectedNoteIDs>
+        </Note>
+        <Note ID="89" FontSize="12.0" Position="2730.05279,2515.102786" Width="167.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Two ways of calling a function</String>
+            <ConnectedNoteIDs>84, 90-92</ConnectedNoteIDs>
+        </Note>
+        <Note ID="90" FontSize="12.0" Position="2932.05279,2515.102786" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Call by value
+함수 내에서 인자 값을 변경해도 영향 없음</String>
+            <ConnectedNoteIDs>89</ConnectedNoteIDs>
+        </Note>
+        <Note ID="91" FontSize="12.0" Position="2730.05279,2572.102786" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Call by reference 
+함수의 인자 값 변경 시, 호출자의 값도 변경된다</String>
+            <ConnectedNoteIDs>89</ConnectedNoteIDs>
+        </Note>
+        <Note ID="92" FontSize="12.0" Position="2730.05279,2444.102786" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String> Python uses a way of giving the address of the value to the function</String>
+            <ConnectedNoteIDs>89, 93</ConnectedNoteIDs>
+        </Note>
+        <Note ID="93" FontSize="12.0" Position="2965.05279,2444.102786" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>If influences when giving new data to the parameter 
+But, does not influence when new parameter is made</String>
+            <ConnectedNoteIDs>92, 94</ConnectedNoteIDs>
+        </Note>
+        <Note ID="94" FontSize="12.0" Position="3200.05279,2444.102786" Width="250.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>example
+def list_of_numbers (numbers):
+    numbers.append(1) &lt;- has influence 
+    numbers = [1,3] &lt;- does not have influence
+
+one_two = [1]
+list_of_numbers(one_two)
+print(one_two) # [1,2]</String>
+            <ConnectedNoteIDs>93</ConnectedNoteIDs>
+        </Note>
+        <Note ID="95" FontSize="12.0" Position="2203.218837,2527.813386" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>The values inside the functions has two types
+local variable, and global variable</String>
+            <ConnectedNoteIDs>84</ConnectedNoteIDs>
+        </Note>
+        <Note ID="96" FontSize="12.0" Position="2287.614011,2697.045981" Width="157.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Recursive function(재귀함수)
+자기자신을 호출하는 함수</String>
+            <ConnectedNoteIDs>84, 97</ConnectedNoteIDs>
+        </Note>
+        <Note ID="97" FontSize="12.0" Position="2205.491582,2750.249304" Width="175.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Similar with while loop~ 
+example 
+def count_down(input_num):
+    if input_num == 0:
+        print('Bom!!!')
+    else:
+        print(input_num)
+        count_down(input_num-1)
+</String>
+            <ConnectedNoteIDs>96</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">35,4</FormatRange>
+                <FormatRange Bold="Yes">66,3</FormatRange>
+                <FormatRange Bold="Yes">99,8</FormatRange>
+                <FormatRange Bold="Yes">113,4</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="98" FontSize="12.0" Position="2451.034472,2660.586083" Width="149.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Ways of passing aruments</String>
+            <ConnectedNoteIDs>84, 99-102</ConnectedNoteIDs>
+        </Note>
+        <Note ID="99" FontSize="12.0" Position="2634.711914,2661.013346" Width="118.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Keyword arguments
+The most basic way 
+def abs (my_name):</String>
+            <ConnectedNoteIDs>98</ConnectedNoteIDs>
+        </Note>
+        <Note ID="100" FontSize="12.0" Position="2648.798346,2720.43621" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Default arguments
+using the default value of the parameter if no value is passed
+def print_sth(name=‘Jay’)</String>
+            <ConnectedNoteIDs>98</ConnectedNoteIDs>
+        </Note>
+        <Note ID="101" FontSize="12.0" Position="2450.711914,2718.013346" Width="158.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Variable-length arguments
+When the number of data is not known, the input data changes to a tuple type
+def asterisk(a, *args):
+</String>
+            <ConnectedNoteIDs>98</ConnectedNoteIDs>
+        </Note>
+        <Note ID="102" FontSize="12.0" Position="2575.171549,2811.647786" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Keyword variable-length arguments
+same with variable-length, but takes dic value 
+def dic(**kwargs):</String>
+            <ConnectedNoteIDs>98</ConnectedNoteIDs>
+        </Note>
+        <Note ID="104" FontSize="12.0" Position="2536.395584,2943.63804" Width="111.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="4" Style="Cloud">0.017571 0.136113 0.378768</Border>
+            </Appearance>
+            <String>Coding convention </String>
+            <ConnectedNoteIDs>11, 105</ConnectedNoteIDs>
+        </Note>
+        <Note ID="105" FontSize="12.0" Position="2765.711914,2944.013346" Width="147.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>PEP8
+Python Enhance Proposal</String>
+            <ConnectedNoteIDs>104, 106-107, 109</ConnectedNoteIDs>
+        </Note>
+        <Note ID="106" FontSize="12.0" Position="2947.711914,2944.013346" Width="173.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>use 5space no tab
+79 letters max for a line
+Do not use smal L, cap o, cap i</String>
+            <ConnectedNoteIDs>105</ConnectedNoteIDs>
+        </Note>
+        <Note ID="107" FontSize="12.0" Position="2857.210076,3037.382372" Width="176.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Can check with ‘flake8’ module </String>
+            <ConnectedNoteIDs>105</ConnectedNoteIDs>
+        </Note>
+        <Note ID="108" FontSize="12.0" Position="2969.500057,2859.013346" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Atomic
+one function should only handle one purpose </String>
+            <ConnectedNoteIDs>109</ConnectedNoteIDs>
+        </Note>
+        <Note ID="109" FontSize="12.0" Position="2839.64344,2887.013346" Width="78.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>For functions</String>
+            <ConnectedNoteIDs>105, 108, 110</ConnectedNoteIDs>
+        </Note>
+        <Note ID="110" FontSize="12.0" Position="2890.768899,2809.859088" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Do not change the value of the parameter, can bring side effect</String>
+            <ConnectedNoteIDs>109</ConnectedNoteIDs>
+        </Note>
+        <Note ID="112" FontSize="12.0" Position="265.232554,851.121837" Width="117.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>1 eng letter is 1 byte</String>
+            <ConnectedNoteIDs>20</ConnectedNoteIDs>
+        </Note>
+        <Note ID="113" FontSize="12.0" Position="58.241812,766.463634" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>To know the memory for each data can use 
+import sys
+sys.getsizeof()</String>
+            <ConnectedNoteIDs>20</ConnectedNoteIDs>
+        </Note>
+        <Note ID="114" FontSize="12.0" Position="263.268855,738.736771" Width="40.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>ASCII</String>
+            <ConnectedNoteIDs>20, 115</ConnectedNoteIDs>
+        </Note>
+        <Note ID="115" FontSize="12.0" Position="20.0,713.79499" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>The rules of changing string value to binary</String>
+            <ConnectedNoteIDs>114</ConnectedNoteIDs>
+        </Note>
+        <Note ID="116" FontSize="12.0" Position="127.292518,614.491729" Width="118.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>use 3 quotation marks for long string
+“””
+~~
+“””</String>
+            <ConnectedNoteIDs>20</ConnectedNoteIDs>
+        </Note>
+        <Note ID="117" FontSize="12.0" Position="885.905231,933.347317" Width="84.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Data structure</String>
+            <ConnectedNoteIDs>12, 53-54, 118-120</ConnectedNoteIDs>
+        </Note>
+        <Note ID="118" FontSize="12.0" Position="1059.441916,922.233526" Width="62.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Dictionary</String>
+            <ConnectedNoteIDs>117, 128-129</ConnectedNoteIDs>
+        </Note>
+        <Note ID="119" FontSize="12.0" Position="1075.675611,1054.035156" Width="27.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Set</String>
+            <ConnectedNoteIDs>117, 126-127</ConnectedNoteIDs>
+        </Note>
+        <Note ID="120" FontSize="12.0" Position="808.728659,974.234682" Width="127.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>A way to manage data</String>
+            <ConnectedNoteIDs>117</ConnectedNoteIDs>
+        </Note>
+        <Note ID="121" FontSize="12.0" Position="953.182611,715.391679" Width="89.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Stack &amp; Queue</String>
+            <ConnectedNoteIDs>53, 122-123</ConnectedNoteIDs>
+        </Note>
+        <Note ID="122" FontSize="12.0" Position="1063.0,557.0" Width="129.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Stack
+LIFO(Last In First Out)
+push -&gt; .append()
+pop -&gt; .pop()</String>
+            <ConnectedNoteIDs>121</ConnectedNoteIDs>
+        </Note>
+        <Note ID="123" FontSize="12.0" Position="1077.632094,707.439034" Width="130.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Queue
+FIFO(First In First Out)
+put -&gt; .append()
+get -&gt; .pop(0)</String>
+            <ConnectedNoteIDs>121</ConnectedNoteIDs>
+        </Note>
+        <Note ID="124" FontSize="12.0" Position="1126.015285,791.242697" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Similar with list, but can not change the value</String>
+            <ConnectedNoteIDs>54</ConnectedNoteIDs>
+        </Note>
+        <Note ID="125" FontSize="12.0" Position="1117.0,883.0" Width="198.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>If only have one value have to add ,
+t = (1,)</String>
+            <ConnectedNoteIDs>54</ConnectedNoteIDs>
+        </Note>
+        <Note ID="126" FontSize="12.0" Position="1168.216712,1161.388927" Width="199.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Do not have order in the data
+Only allows one data for each value</String>
+            <ConnectedNoteIDs>119</ConnectedNoteIDs>
+        </Note>
+        <Note ID="127" FontSize="12.0" Position="1068.155401,1100.27072" Width="86.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>When writing
+s = set([1,2,3])
+s = {1,2,3}</String>
+            <ConnectedNoteIDs>119</ConnectedNoteIDs>
+        </Note>
+        <Note ID="128" FontSize="12.0" Position="1179.7393,1010.068954" Width="175.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Has key(identifier) for each value</String>
+            <ConnectedNoteIDs>118</ConnectedNoteIDs>
+        </Note>
+        <Note ID="129" FontSize="12.0" Position="1391.0,490.0" Width="154.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Collection
+Python built-in module
+needs to be imported
+from collections import ~~</String>
+            <ConnectedNoteIDs>53-54, 118, 130, 138, 142, 145, 151</ConnectedNoteIDs>
+        </Note>
+        <Note ID="130" FontSize="12.0" Position="1278.034477,349.330842" Width="44.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Deque</String>
+            <ConnectedNoteIDs>129, 131-132, 137</ConnectedNoteIDs>
+        </Note>
+        <Note ID="131" FontSize="12.0" Position="957.0,393.0" Width="225.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Can do stack &amp; Queue more comfortably
+can use both stack and queue </String>
+            <ConnectedNoteIDs>130</ConnectedNoteIDs>
+        </Note>
+        <Note ID="132" FontSize="12.0" Position="1163.669643,293.770833" Width="68.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Way to use</String>
+            <ConnectedNoteIDs>130, 133-136</ConnectedNoteIDs>
+        </Note>
+        <Note ID="133" FontSize="12.0" Position="764.122989,221.937423" Width="283.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>adding data
+list = deque()
+list.append() -&gt; adding
+list.appendleft() -&gt; adding in the left side of the data
+</String>
+            <ConnectedNoteIDs>132</ConnectedNoteIDs>
+        </Note>
+        <Note ID="134" FontSize="12.0" Position="995.648283,124.120127" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>rotate
+can change to order of the data
+list.rotate(2) -&gt; whole data moves 2 to the left</String>
+            <ConnectedNoteIDs>132</ConnectedNoteIDs>
+        </Note>
+        <Note ID="135" FontSize="12.0" Position="1286.504177,243.038908" Width="185.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Can use all the functions from list</String>
+            <ConnectedNoteIDs>132</ConnectedNoteIDs>
+        </Note>
+        <Note ID="136" FontSize="12.0" Position="1232.0,157.0" Width="148.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>reverse
+list = deque(reversed(list))</String>
+            <ConnectedNoteIDs>132</ConnectedNoteIDs>
+        </Note>
+        <Note ID="137" FontSize="12.0" Position="1364.000309,309.390238" Width="123.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Faster speed than list</String>
+            <ConnectedNoteIDs>130</ConnectedNoteIDs>
+        </Note>
+        <Note ID="138" FontSize="12.0" Position="1595.935672,279.462766" Width="73.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>OrderedDict
+</String>
+            <ConnectedNoteIDs>129, 139-140</ConnectedNoteIDs>
+        </Note>
+        <Note ID="139" FontSize="12.0" Position="1705.935672,279.462766" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Similar with dict but has order inside the data. the first that is imputed goes to the top of the dict</String>
+            <ConnectedNoteIDs>138</ConnectedNoteIDs>
+        </Note>
+        <Note ID="140" FontSize="12.0" Position="1595.935672,222.462766" Width="99.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Able to reverse it</String>
+            <ConnectedNoteIDs>138, 141</ConnectedNoteIDs>
+        </Note>
+        <Note ID="141" FontSize="12.0" Position="1537.890957,139.353391" Width="312.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>for k,v in OrderedDict(sorted(hey.items(),reverse=True, key=lambda t:t[1])).items():
+    print(k,v)
+</String>
+            <ConnectedNoteIDs>140</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,4</FormatRange>
+                <FormatRange Bold="Yes">8,3</FormatRange>
+                <FormatRange Bold="Yes">50,4</FormatRange>
+                <FormatRange Bold="Yes">60,7</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="142" FontSize="12.0" Position="1586.334728,390.343103" Width="63.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>defaultdict</String>
+            <ConnectedNoteIDs>129, 143-144</ConnectedNoteIDs>
+        </Note>
+        <Note ID="143" FontSize="12.0" Position="1693.860539,343.916888" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Similar with dict, but adds a default value to a new created key</String>
+            <ConnectedNoteIDs>142</ConnectedNoteIDs>
+        </Note>
+        <Note ID="144" FontSize="12.0" Position="1704.168218,399.037566" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>d = defaultdict(object) # create 
+d = defaultdict(lambda:0) # Default value as 0
+</String>
+            <ConnectedNoteIDs>142</ConnectedNoteIDs>
+        </Note>
+        <Note ID="145" FontSize="12.0" Position="1606.865359,547.846243" Width="51.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Counter</String>
+            <ConnectedNoteIDs>129, 147-150</ConnectedNoteIDs>
+        </Note>
+        <Note ID="147" FontSize="12.0" Position="1693.0,548.0" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Change other data types to dict type</String>
+            <ConnectedNoteIDs>145</ConnectedNoteIDs>
+        </Note>
+        <Note ID="148" FontSize="12.0" Position="1717.550668,591.634845" Width="159.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>c = Counter()
+c = Counter(‘abc’)
+# Counter({‘a’:1, ‘b’:a1 ‘c’:1})</String>
+            <ConnectedNoteIDs>145</ConnectedNoteIDs>
+        </Note>
+        <Note ID="149" FontSize="12.0" Position="1730.015264,647.878884" Width="186.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Able to use all the functions from 
+dict</String>
+            <ConnectedNoteIDs>145</ConnectedNoteIDs>
+        </Note>
+        <Note ID="150" FontSize="12.0" Position="1691.0,691.0" Width="180.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Able for set calculation
+Counter_1.subtract(Counter_2)
+also +, &amp;, |</String>
+            <ConnectedNoteIDs>145</ConnectedNoteIDs>
+        </Note>
+        <Note ID="151" FontSize="12.0" Position="1481.573067,587.71297" Width="75.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>named tuple</String>
+            <ConnectedNoteIDs>129, 152</ConnectedNoteIDs>
+        </Note>
+        <Note ID="152" FontSize="12.0" Position="1434.806449,661.893696" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>저장되는 data의 variable을 사전에 지정한다</String>
+            <ConnectedNoteIDs>151, 153</ConnectedNoteIDs>
+        </Note>
+        <Note ID="153" FontSize="12.0" Position="1435.0,735.0" Width="182.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>point = namedtuple(‘point’,[‘x’,’y’]
+p = point(11,y=22)
+print(p)
+#point(x=11, y=22)</String>
+            <ConnectedNoteIDs>152</ConnectedNoteIDs>
+        </Note>
+        <Note ID="154" FontSize="12.0" Position="3235.042302,572.944741" Width="84.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Pythonic code</String>
+            <ConnectedNoteIDs>13, 157, 160, 165, 168</ConnectedNoteIDs>
+        </Note>
+        <Note ID="155" FontSize="12.0" Position="3345.100395,401.485473" Width="115.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>string_1 = ‘’.join(list)</String>
+            <ConnectedNoteIDs>156</ConnectedNoteIDs>
+        </Note>
+        <Note ID="156" FontSize="12.0" Position="3301.056591,447.28996" Width="131.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Join
+Changes list type to str</String>
+            <ConnectedNoteIDs>155, 157</ConnectedNoteIDs>
+        </Note>
+        <Note ID="157" FontSize="12.0" Position="3341.921976,548.329356" Width="81.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Split and Join</String>
+            <ConnectedNoteIDs>154, 156, 158</ConnectedNoteIDs>
+        </Note>
+        <Note ID="158" FontSize="12.0" Position="3489.056591,567.28996" Width="125.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Split
+Change str type to list</String>
+            <ConnectedNoteIDs>157, 159</ConnectedNoteIDs>
+        </Note>
+        <Note ID="159" FontSize="12.0" Position="3649.056591,567.28996" Width="216.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>items = ‘I, want ,to go, home’.split(‘,’)</String>
+            <ConnectedNoteIDs>158</ConnectedNoteIDs>
+        </Note>
+        <Note ID="160" FontSize="12.0" Position="3309.056591,686.28996" Width="113.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>List comprehension</String>
+            <ConnectedNoteIDs>154, 161</ConnectedNoteIDs>
+        </Note>
+        <Note ID="161" FontSize="12.0" Position="3457.056591,686.28996" Width="234.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>making a new list by using a old list
+much faster than using for + append</String>
+            <ConnectedNoteIDs>160, 162-164</ConnectedNoteIDs>
+        </Note>
+        <Note ID="162" FontSize="12.0" Position="3726.056591,686.28996" Width="152.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>result = [i for i in range(10)]</String>
+            <ConnectedNoteIDs>161</ConnectedNoteIDs>
+        </Note>
+        <Note ID="163" FontSize="12.0" Position="3722.056591,712.28996" Width="228.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Able to add two str, or list
+result = [i+j for i in word_1 for j in word_2]</String>
+            <ConnectedNoteIDs>161</ConnectedNoteIDs>
+        </Note>
+        <Note ID="164" FontSize="12.0" Position="3720.120427,749.601258" Width="169.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Able to use if statement inside</String>
+            <ConnectedNoteIDs>161</ConnectedNoteIDs>
+        </Note>
+        <Note ID="165" FontSize="12.0" Position="3085.519176,470.041903" Width="67.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>Enumerate</String>
+            <ConnectedNoteIDs>154, 166</ConnectedNoteIDs>
+        </Note>
+        <Note ID="166" FontSize="12.0" Position="3039.277699,395.68679" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>It gives a index number to the elements of the list</String>
+            <ConnectedNoteIDs>165, 167</ConnectedNoteIDs>
+        </Note>
+        <Note ID="167" FontSize="12.0" Position="3088.801136,330.321023" Width="141.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>for i,v in enumerate([list])</String>
+            <ConnectedNoteIDs>166</ConnectedNoteIDs>
+        </Note>
+        <Note ID="168" FontSize="12.0" Position="3067.715199,523.401278" Width="24.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>zip</String>
+            <ConnectedNoteIDs>154, 169</ConnectedNoteIDs>
+        </Note>
+        <Note ID="169" FontSize="12.0" Position="2829.814631,485.769886" Width="200.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>It takes out value from 2 list parallel병렬 </String>
+            <ConnectedNoteIDs>168, 170</ConnectedNoteIDs>
+        </Note>
+        <Note ID="170" FontSize="12.0" Position="2816.0,402.0" Width="159.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>for a,b in zip(alist, blist):</String>
+            <ConnectedNoteIDs>169</ConnectedNoteIDs>
+        </Note>
+        <Note ID="171" FontSize="100.0" Position="1790.454545,1456.573864" Width="1059.0" Shadow="Yes">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="2">0.561855 0.71062 0.779401</Border>
+            </Appearance>
+            <String>chap 9 map and reduce</String>
+        </Note>
+    </Notes>
+    <BackgroundShapes></BackgroundShapes>
+    <AutoFit>11-16, 18, 20-23, 26, 28-29, 31, 36-38, 42-46, 50-51, 53, 55-57, 59-60, 62, 64-69, 71, 73-75, 80, 82, 84-85, 87, 89, 94, 96-99, 104-107, 109, 112, 114, 117-123, 125-127, 130-132, 135-138, 140, 142, 145, 148-149, 151, 153-158, 160, 162-165, 167-168, 171</AutoFit>
+    <NoteStyles>
+        <Style Name="Bubble (Blue)" ID="6AC4CD70-4601-446F-8AA5-E97F41D23CA1" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.561855 0.71062 0.779401</BorderColor>
+            <FillColor>0.702319 0.888276 0.974252</FillColor>
+        </Style>
+        <Style Name="Bubble (Green)" ID="91322B7D-57AB-46ED-AA96-5D3C22099E19" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.572684 0.758969 0.558154</BorderColor>
+            <FillColor>0.715855 0.948712 0.697692</FillColor>
+        </Style>
+        <Style Name="Bubble (Pink)" ID="20D1C10D-EFDA-4D82-BF9F-DB23B096F51F" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.794796 0.560965 0.58607</BorderColor>
+            <FillColor>0.957566 0.766747 0.999616</FillColor>
+        </Style>
+        <Style Name="Bubble (Red)" ID="9BE0B11C-8AE9-40AF-933D-F93A74B278D4" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.794796 0.560965 0.58607</BorderColor>
+            <FillColor>0.993495 0.701207 0.732587</FillColor>
+        </Style>
+        <Style Name="Bubble (Yellow)" ID="8E2E4A53-6359-4D6F-9025-6D03831A83ED" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.798177 0.714184 0.522055</BorderColor>
+            <FillColor>0.997722 0.89273 0.652569</FillColor>
+        </Style>
+        <Style Name="Red Text" ID="211ABAB6-8C93-4E24-BABE-C5730E393F76" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>0.985948 0.0 0.026951</TextColor>
+        </Style>
+        <Style Name="Title Text" ID="64F027EA-10B1-4129-8302-9D8BFFC8C8A5" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999767 0.98837 0.949907</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+        <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+    </UISettings>
+    <PrintSettings PaperSize="595.280015,841.890015" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>
